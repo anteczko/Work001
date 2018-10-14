@@ -1,0 +1,7 @@
+#!/bin/bash
+function ch()
+{
+	return "yes";
+}
+
+echo ch("test");
